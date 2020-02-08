@@ -3,7 +3,8 @@
 ## API 
 
 Para hacer el consumo se usara PokeApi y el endpoint que usaremos en el consumo es 
-https://pokeapi.co/api/v2/location/
+https://pokeapi.co/api/v2/pokedex/?limit=5
+https://pokeapi.co/api/v2/pokemon/?limit=5
 
 ## REFERENCIAS DE GUIA 
 
